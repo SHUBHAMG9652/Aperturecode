@@ -1,0 +1,7 @@
+this is sample project.
+adding new feature
+<<<<<<< HEAD
+this is for merge
+=======
+This is for merge
+>>>>>>> branch2
